@@ -40,7 +40,7 @@
    "default": "0",
    "fieldname": "is_active",
    "fieldtype": "Check",
-   "label": "is_active"
+   "label": "Is Active"
   },
   {
    "fieldname": "icon",
@@ -51,7 +51,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-29 22:51:33.773427",
+ "modified": "2025-08-31 14:54:17.879756",
  "modified_by": "Administrator",
  "module": "upeoXpense",
  "name": "Expense Category",
