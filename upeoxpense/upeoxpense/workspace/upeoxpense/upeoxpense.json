@@ -1,0 +1,54 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"0qW2WQWaqH\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">upeoXpense</span>\",\"col\":12}},{\"id\":\"fn6fETcAfG\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Expense Category\",\"col\":3}},{\"id\":\"T4bsrMbZfF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Budget\",\"col\":3}},{\"id\":\"PSiYsx_nWi\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Expense\",\"col\":3}}]",
+ "creation": "2025-08-30 20:54:08.164846",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "month-view",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "upeoXpense",
+ "links": [],
+ "modified": "2025-08-30 21:04:17.860824",
+ "modified_by": "karani@upeosoft.com",
+ "module": "upeoXpense",
+ "name": "upeoXpense",
+ "number_cards": [],
+ "owner": "karani@upeosoft.com",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 28.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Expense Category",
+   "link_to": "Expense Category",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Expense",
+   "link_to": "Expense",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Budget",
+   "link_to": "Budget",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "upeoXpense"
+}
