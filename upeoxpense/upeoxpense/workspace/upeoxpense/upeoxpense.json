@@ -11,12 +11,12 @@
  "idx": 0,
  "indicator_color": "green",
  "is_hidden": 0,
- "label": "upeoXpense",
+ "label": "Xpense",
  "links": [],
  "modified": "2025-08-30 21:04:17.860824",
  "modified_by": "karani@upeosoft.com",
- "module": "upeoXpense",
- "name": "upeoXpense",
+ "module": "Xpense",
+ "name": "Xpense",
  "number_cards": [],
  "owner": "karani@upeosoft.com",
  "parent_page": "",
@@ -50,5 +50,5 @@
    "type": "DocType"
   }
  ],
- "title": "upeoXpense"
+ "title": "Xpense"
 }
